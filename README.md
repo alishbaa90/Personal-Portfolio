@@ -5,7 +5,7 @@ This is a responsive personal portfolio website built using HTML, CSS, and JavaS
 ## Features
 ### Responsive Design:
 Adjusts to various screen sizes and devices (mobile, tablet, desktop).
-## Interactive Elements:
+### Interactive Elements:
 Smooth scrolling, hover effects, and animations.
 ### Project Showcase:
 Highlights my previous work with descriptions of each project.
